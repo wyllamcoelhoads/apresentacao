@@ -1,9 +1,9 @@
 
 <h3>Olá, Meu nome é William Coelho. Seja bem vindo ao meu perfil!</h3><br>
 <p align="left">
-➡️ Sou Formado <b>Analise e desenvolvimento de sistemas</b> Pela Universidade de Maringa;<br> 
-➡️ Estou cursando <b>Física</b> Pela  Universidade Federal de Goiás;<br> 
-➡️ Sou Analista de Sistemas na Linx S/A;<br>
+➡️ Sou formado em <b>Analise e desenvolvimento de sistemas</b> na Universidade de Maringa;<br> 
+➡️ Estou cursando <b>Física</b> na Universidade Federal de Goiás;<br> 
+➡️ Sou Analista de Sistemas na Stone S/A;<br>
 <h3><b>🔦 Visite minhas redes:<b></h3>
 <div align="left" style="display: flex">
 <a href="https://www.instagram.com/williamcoelhoads/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
