@@ -12,12 +12,7 @@
 <br>
 <br>
 <h3><b>📊 Estatísticas do meu Perfil:<b></h3>
-<br>
-<div align="center" style="display: inline_block">
-<img src="https://streak-stats.demolab.com?user=igorsardinha&theme=dark&hide_border=true&background=0D1117&locale=pt-br&date_format=j%2Fn%5B%2FY%5D"/><br>
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=igorsardinha&show_icons=true&theme=github_dark&hide_title=true&hide_border=true&locale=pt-br"/>
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsardinha&layout=compact&theme=github_dark&hide_title=true&hide_border=true&locale=pt-br&langs_count=8"/>
-</div>
+
 <br>
 <div style="display: inline_block"><br>
 <h3><b>✨ Minhas principais Skills:<b></h3>
