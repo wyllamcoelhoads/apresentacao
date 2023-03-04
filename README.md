@@ -1,4 +1,4 @@
-<img align="right" src="https://i.imgur.com/z57RMdA.png" height="350px">
+
 <h3>Olá, Meu nome é William Coelho. Seja bem vindo ao meu perfil!</h3><br>
 <p align="left">
 ➡️ Sou Formado <b>Analise e desenvolvimento de sistemas</b> Pela Universidade de Maringa;<br> 
