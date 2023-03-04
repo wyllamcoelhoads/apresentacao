@@ -9,7 +9,6 @@
 <a href="https://www.instagram.com/williamcoelhoads/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/williamcoelhoads/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-https://github.com/seu-usuário-aqui/wyllamcoelhoads/blob/output/github-contribution-grid-snake.svg
 <br>
 <div>
 <a href="https://github.com/seu-usuário-aqui">
