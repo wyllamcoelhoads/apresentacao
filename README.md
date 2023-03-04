@@ -1,5 +1,4 @@
 
-![snake gif](https://github.com/wyllamcoelhoads/wyllamcoelhoads/blob/output/github-contribution-grid-snake.svg)
 <h3>Olá, Meu nome é William Coelho. Seja bem vindo ao meu perfil!</h3><br>
 <p align="left">
 ➡️ Sou formado em <b>Analise e desenvolvimento de sistemas</b> na Universidade de Maringa;<br> 
