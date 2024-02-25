@@ -17,7 +17,7 @@
 </div>
 <br>
 <div style="display: inline_block"><br>
-<h3><b>✨ Minhas principais Skills:<b></h3>
+<h3><b>👽👾 Minhas principais Skills:<b></h3>
 <p align="center">
 <img title="HTML"  align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 &nbsp;&nbsp;
