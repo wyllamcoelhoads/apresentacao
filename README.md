@@ -7,7 +7,9 @@
 🌱 Estou cursando <b>Física</b> na Universidade Federal de Goiás;<br> 
 💼 Sou Analista de Sistemas na Stone S/A;<br>
 📝 Confira meu [Curriculo](https://drive.google.com/file/d/1uIEajVj30OgGZ90ZDTFx3tVg8TRLGS4F/view?usp=drive_link)
- 
+
+ - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
+   
 <h3><b>🔦 Visite minhas redes:<b></h3>
 <div align="left" style="display: flex">
 <a href="https://www.instagram.com/williamcoelhoads/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
