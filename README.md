@@ -1,9 +1,14 @@
+### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-<h3>Olá, Meu nome é William Coelho. Seja bem vindo ao meu perfil!</h3><br>
+<h3>Meu nome é William Coelho. Seja bem vindo ao meu perfil!</h3><br>
+
 <p align="left">
-➡️ Sou formado em <b>Analise e desenvolvimento de sistemas</b> na Universidade de Maringa;<br> 
-➡️ Estou cursando <b>Física</b> na Universidade Federal de Goiás;<br> 
-➡️ Sou Analista de Sistemas na Stone S/A;<br>
+👨🏽‍💻 Sou formado em <b>Analise e desenvolvimento de sistemas</b> na Universidade de Maringa;<br> 
+🌱 Estou cursando <b>Física</b> na Universidade Federal de Goiás;<br> 
+💼 Sou Analista de Sistemas na Stone S/A;<br>
+📫 Pode me enviar um [E-mail](wyllamcoelho8@gmail.com)
+📝 Confira meu [Curriculo](https://drive.google.com/file/d/1uIEajVj30OgGZ90ZDTFx3tVg8TRLGS4F/view?usp=drive_link)
+ 
 <h3><b>🔦 Visite minhas redes:<b></h3>
 <div align="left" style="display: flex">
 <a href="https://www.instagram.com/williamcoelhoads/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
