@@ -10,8 +10,6 @@ Confira meu <a href="https://drive.google.com/file/d/1uIEajVj30OgGZ90ZDTFx3tVg8T
    
 <h3><b>🔦 Visite minhas redes:<b></h3>
 <div align="left" style="display: flex">
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wyllamcoelho8@gmail.com)](mailto:wyllamcoelho8@gmail.com)
-   
 <a href="https://www.instagram.com/w.coelho.s/" target="_blank"><img src="https://img.shields.io/badge/@w.coelho.s-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/williamcoelhoads/" target="_blank"><img src="https://img.shields.io/badge/williamcoelhoads-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
