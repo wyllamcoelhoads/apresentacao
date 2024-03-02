@@ -6,7 +6,7 @@
 👨🏽‍💻 Sou formado em <b>Analise e desenvolvimento de sistemas</b> na Universidade de Maringa;<br> 
 🪐 Estou cursando <b>Física</b> na Universidade Federal de Goiás;<br> 
 💼 Sou Analista de Sistemas na Stone S/A;<br>
-Confira meu <a href="https://drive.google.com/file/d/1Jvar5UoQ3wRCEzEnwftbAyj04-UMtX2Q/view?usp=sharing">Curriculo</a>
+Confira meu <a href="https://drive.google.com/file/d/1-4HD76zC1Ea6_6gbXUVNM_C3esJBiQU-/view?usp=sharing">Curriculo</a>
    
 <h3><b>🔦 Visite minhas redes:<b></h3>
 <div align="left" style="display: flex">
