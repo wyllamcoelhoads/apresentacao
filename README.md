@@ -7,9 +7,7 @@
 🪐 Estou cursando <b>Física</b> na Universidade Federal de Goiás;<br> 
 💼 Sou Analista de Sistemas na Stone S/A;<br>
 Confira meu <a href="https://drive.google.com/file/d/1A51qTvaGNZnyltvUi6-slJYqV3jfX-AV/view?usp=sharing">Curriculo</a>
-   
-<a><img src=https://devtools.com.br/img/pix/logo-pix-png-icone-100x100.png ></a>
-   
+  
 <h3><b>🔦 Visite minhas redes:<b></h3>
 <div align="left" style="display: flex">
 <a href="https://www.instagram.com/w.coelho.s/" target="_blank"><img src="https://img.shields.io/badge/@w.coelho.s-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
