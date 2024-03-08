@@ -49,7 +49,7 @@ Confira meu <a href="https://drive.google.com/file/d/1A51qTvaGNZnyltvUi6-slJYqV3
 &nbsp;&nbsp;
 <img title="Jira" align="center" alt="Jira" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
 &nbsp;&nbsp;
-<img title="Azure" align="center" alt="Azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+<img title="Ubuntu" align="center" alt="Ubuntu" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
 &nbsp;&nbsp;
 </p>
 </div>
