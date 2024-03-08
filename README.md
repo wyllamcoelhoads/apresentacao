@@ -31,7 +31,7 @@ Confira meu <a href="https://drive.google.com/file/d/1A51qTvaGNZnyltvUi6-slJYqV3
 &nbsp;&nbsp;
 <img title="Linux" align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 &nbsp;&nbsp;
-<img title="TypeScript" align="center" alt="Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img title="Bash" align="center" alt="Bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
 &nbsp;&nbsp;
 <img title="React" align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 &nbsp;&nbsp;
