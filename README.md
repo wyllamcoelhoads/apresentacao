@@ -25,17 +25,9 @@ Confira meu <a href="https://drive.google.com/file/d/1A51qTvaGNZnyltvUi6-slJYqV3
 <p align="center">
 <img title="Python"  align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 &nbsp;&nbsp;
-<img title="CSS" align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-&nbsp;&nbsp;
-<img title="JavaScript" align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-&nbsp;&nbsp;
-<img title="Linux" align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-&nbsp;&nbsp;
 <img title="Bash" align="center" alt="Bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
 &nbsp;&nbsp;
 <img title="Java" align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-&nbsp;&nbsp;
-<img title="Mongodb" align="center" alt="Mongodb" height="40" width="40" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg">
 &nbsp;&nbsp;
 <img title="Postgres" align="center" alt="Postgres" height="40" width="40" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg">
 &nbsp;&nbsp;
@@ -45,22 +37,30 @@ Confira meu <a href="https://drive.google.com/file/d/1A51qTvaGNZnyltvUi6-slJYqV3
 &nbsp;&nbsp;
 <img title="Docker" align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
 &nbsp;&nbsp;
+<img title="Mongodb" align="center" alt="Mongodb" height="40" width="40" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg">
+&nbsp;&nbsp;
+<img title="JavaScript" align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+&nbsp;&nbsp;
+<img title="CSS" align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+&nbsp;&nbsp;
 </p>
 </div>
 
 <h3><b>🛠️ IDEs, Dev e Ferramentas:<b></h3>
 <p align="center">
+<img title="Linux" align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+&nbsp;&nbsp;
 <img title="VScode" align="center" alt="VScode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+&nbsp;&nbsp;
+<img title="Git" align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+&nbsp;&nbsp;
+<img title="Jira" align="center" alt="Jira" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
 &nbsp;&nbsp;
 <img title="Chrome" align="center" alt="Chrome" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original-wordmark.svg">
 &nbsp;&nbsp;
 <img title="Jupyter" align="center" alt="Jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
 &nbsp;&nbsp;
 <img title="Ubuntu" align="center" alt="Ubuntu" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
-&nbsp;&nbsp;
-<img title="Jira" align="center" alt="Jira" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
-&nbsp;&nbsp;
-<img title="Git" align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 &nbsp;&nbsp;
 </p>
 
