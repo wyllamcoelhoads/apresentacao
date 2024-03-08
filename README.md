@@ -23,7 +23,7 @@ Confira meu <a href="https://drive.google.com/file/d/1A51qTvaGNZnyltvUi6-slJYqV3
 <div style="display: inline_block"><br>
 <h3><b>👽👾 Linguagens e Tecnologias:<b></h3>
 <p align="center">
-<img title="Python"  align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+<img title="Python"  align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 &nbsp;&nbsp;
 <img title="CSS" align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 &nbsp;&nbsp;
@@ -35,13 +35,13 @@ Confira meu <a href="https://drive.google.com/file/d/1A51qTvaGNZnyltvUi6-slJYqV3
 &nbsp;&nbsp;
 <img title="Java" align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
 &nbsp;&nbsp;
-<img title="MOngodb" align="center" alt="MOngodb" height="40" width="40" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg"
+<img title="Mongodb" align="center" alt="Mongodb" height="40" width="40" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg">
 &nbsp;&nbsp;
-<img title="Postgres" align="center" alt="Postgres" height="40" width="40" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg"
+<img title="Postgres" align="center" alt="Postgres" height="40" width="40" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg">
 &nbsp;&nbsp;
 <img title="MySQL" align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 &nbsp;&nbsp;
-<img title="Mariadb" align="center" alt="Mariadb" height="40" width="40" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
+<img title="Mariadb" align="center" alt="Mariadb" height="40" width="40" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg">
 &nbsp;&nbsp;
 <img title="Docker" align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
 &nbsp;&nbsp;
