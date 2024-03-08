@@ -54,8 +54,14 @@ Confira meu <a href="https://drive.google.com/file/d/1A51qTvaGNZnyltvUi6-slJYqV3
 </p>
 </div>
 
-<h3><b>👽👾 IDEs, Dev e Ferramentas:<b></h3>
+<h3><b>🛠️ IDEs, Dev e Ferramentas:<b></h3>
 <p>
+<img title="VScode" align="center" alt="VScode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+&nbsp;&nbsp;
+<img title="Chrome" align="center" alt="Chrome" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original-wordmark.svg">
+&nbsp;&nbsp;
+<img title="Jupyter" align="center" alt="Jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+&nbsp;&nbsp;
 </p>
 
 <br>
