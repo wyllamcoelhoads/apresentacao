@@ -53,6 +53,11 @@ Confira meu <a href="https://drive.google.com/file/d/1A51qTvaGNZnyltvUi6-slJYqV3
 &nbsp;&nbsp;
 </p>
 </div>
+
+<h3><b>👽👾 IDEs, Dev e Ferramentas:<b></h3>
+<p>
+</p>
+
 <br>
 
  
