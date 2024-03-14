@@ -13,6 +13,10 @@ Confira meu <a href="https://drive.google.com/file/d/1A51qTvaGNZnyltvUi6-slJYqV3
 <a href="https://www.instagram.com/w.coelho.s/" target="_blank"><img src="https://img.shields.io/badge/@w.coelho.s-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/williamcoelhoads/" target="_blank"><img src="https://img.shields.io/badge/williamcoelhoads-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
+<h3><b>Total de visitas no meu perfil :detective:<b></h3>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/SamuelBenedito/count.svg" />
+ </p>
 <br>
 <div>
 <a href="https://github.com/seu-usuário-aqui">
