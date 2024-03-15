@@ -14,7 +14,7 @@ Confira meu <a href="https://drive.google.com/file/d/1A51qTvaGNZnyltvUi6-slJYqV3
 <a href="https://www.linkedin.com/in/williamcoelhoads/" target="_blank"><img src="https://img.shields.io/badge/williamcoelhoads-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <h3><b>Total de visitas a este perfil Github:detective:<b></h3>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/wyllamcoelhoads/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/wyllamcoelhoads/count.svg"/>
  </p>
 </div>
 <br>
@@ -49,7 +49,6 @@ Confira meu <a href="https://drive.google.com/file/d/1A51qTvaGNZnyltvUi6-slJYqV3
 &nbsp;&nbsp;
 </p>
 </div>
-
 <h3><b>🛠️ IDEs, Dev e Ferramentas:<b></h3>
 <p align="center">
 <img title="Linux" align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
@@ -67,7 +66,6 @@ Confira meu <a href="https://drive.google.com/file/d/1A51qTvaGNZnyltvUi6-slJYqV3
 <img title="Ubuntu" align="center" alt="Ubuntu" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
 &nbsp;&nbsp;
 </p>
-
 <br>
 
  
