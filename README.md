@@ -12,10 +12,43 @@ Confira meu <a href="https://drive.google.com/file/d/1A51qTvaGNZnyltvUi6-slJYqV3
 <div align="left" style="display: flex">
 <a href="https://www.instagram.com/w.coelho.s/" target="_blank"><img src="https://img.shields.io/badge/@w.coelho.s-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/williamcoelhoads/" target="_blank"><img src="https://img.shields.io/badge/williamcoelhoads-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<h3><b>Total de visitas a este perfil Github:detective:<b></h3>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/wyllamcoelhoads/count.svg" />
- </p>
+## Total de visitas a este perfil Github:detective:
+
+<p align="center" id="visitCount">Carregando...</p>
+
+<script>
+  // Função para obter a contagem de visitas do armazenamento local
+  function getVisitCount() {
+    return localStorage.getItem('githubVisitCount') || 0;
+  }
+
+  // Função para atualizar a contagem de visitas
+  function updateVisitCount(count) {
+    const visitCountElement = document.getElementById('visitCount');
+    visitCountElement.textContent = `Total de visitas a este perfil GitHub: ${count}`;
+  }
+
+  // Verificar se a contagem já foi feita antes
+  if (!localStorage.getItem('githubVisitDone')) {
+    // Atualizar a contagem de visitas
+    fetch('https://profile-counter.glitch.me/wyllamcoelhoads/count.svg')
+      .then(response => response.text())
+      .then(data => {
+        const visitCount = parseInt(data.match(/\d+/)[0], 10);
+        updateVisitCount(visitCount);
+
+        // Salvar a contagem no armazenamento local
+        localStorage.setItem('githubVisitCount', visitCount);
+        localStorage.setItem('githubVisitDone', true);
+      })
+      .catch(error => console.error('Erro ao obter a contagem de visitas:', error));
+  } else {
+    // Obter a contagem de visitas do armazenamento local e atualizar
+    const visitCount = getVisitCount();
+    updateVisitCount(visitCount);
+  }
+</script>
+
 </div>
 <br>
 <div>
