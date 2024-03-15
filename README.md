@@ -13,9 +13,7 @@ Confira meu <a href="https://drive.google.com/file/d/1A51qTvaGNZnyltvUi6-slJYqV3
 <a href="https://www.instagram.com/w.coelho.s/" target="_blank"><img src="https://img.shields.io/badge/@w.coelho.s-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/williamcoelhoads/" target="_blank"><img src="https://img.shields.io/badge/williamcoelhoads-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 ## Total de visitas a este perfil Github:detective:
-
 <p align="center" id="visitCount">Carregando...</p>
-
 <script>
   // Função para obter a contagem de visitas do armazenamento local
   function getVisitCount() {
@@ -48,7 +46,6 @@ Confira meu <a href="https://drive.google.com/file/d/1A51qTvaGNZnyltvUi6-slJYqV3
     updateVisitCount(visitCount);
   }
 </script>
-
 </div>
 <br>
 <div>
