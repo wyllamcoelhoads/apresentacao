@@ -3,8 +3,8 @@
 <h3>Meu nome é William Coelho. Seja bem-vindo ao meu perfil!<img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  </h3>  <br>
 
 <p align="left">
-👨🏽‍💻 Sou formado em <b>Analise e desenvolvimento de sistemas</b> na Universidade de Maringa;<br> 
-🪐 Estou cursando <b>Física</b> na Universidade Federal de Goiás;<br> 
+👨🏽‍💻 Sou formado em <b>Analise e desenvolvimento de sistemas</b> na <a href = "https://www.unicesumar.edu.br/">Universidade de Maringa</a>;<br> 
+🪐 Estou cursando <b>Arquitetura de Software</b> na Universidade <a href = "https://www.faculdadevincit.edu.br/">VINCIT</a>;<br> 
 💼 Sou Analista de Sistemas na Stone S/A;<br>
 📄 Confira meu <a href="https://drive.google.com/file/d/1YKyH67rkE83l2RdXymaO1An0onifImAd/view?usp=drive_link">Curriculo</a>
   
