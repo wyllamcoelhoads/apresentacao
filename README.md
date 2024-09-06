@@ -35,6 +35,10 @@
 &nbsp;&nbsp;
 <img title="Java" align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
 &nbsp;&nbsp;
+<img title="C" align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+&nbsp;&nbsp;
+<img title="C++" align="center" alt="Java" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/c.svg">
+&nbsp;&nbsp;
 <img title="Postgres" align="center" alt="Postgres" height="40" width="40" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg">
 &nbsp;&nbsp;
 <img title="MySQL" align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
@@ -45,10 +49,12 @@
 &nbsp;&nbsp;
 <img title="Mongodb" align="center" alt="Mongodb" height="40" width="40" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg">
 &nbsp;&nbsp;
+<img title="Angular" align="center" alt="Mongodb" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
+&nbsp;&nbsp;
 <img title="JavaScript" align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 &nbsp;&nbsp;
 <img title="Typescript" align="center" alt="Js" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"> 
-  &nbsp;&nbsp;
+&nbsp;&nbsp;
 <img title="CSS" align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 &nbsp;&nbsp;
 </p>
