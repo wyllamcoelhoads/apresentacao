@@ -47,6 +47,8 @@
 &nbsp;&nbsp;
 <img title="JavaScript" align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 &nbsp;&nbsp;
+<img title="Typescript" align="center" alt="Js" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"> 
+  &nbsp;&nbsp;
 <img title="CSS" align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 &nbsp;&nbsp;
 </p>
